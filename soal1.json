@@ -19,6 +19,6 @@ function getProfile() {
         },{
             level : "beginner"
         }],
-        interest_in_coding : false,
+        interest_in_coding : true,
     }
 }
