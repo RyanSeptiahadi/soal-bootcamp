@@ -1,0 +1,24 @@
+function getProfile() {
+    return {
+        name : "Ryan Septiahadi",
+        age : 17,
+        address : "jl.Teuku Umar gg.gandaria 2 no.1, Sintang, Kalimanta Barat",
+        hobbies : ["Gaming", "volleyball", "football"],
+        is_marriage : false,
+        list_school : [{
+            name : "SMAN 1 Sintang"
+        },{
+            year_in : 2016
+        },{
+            year_out : 2019
+        },{
+            major : "null"
+        }],
+        skills : [{
+            skill_name : "coding"
+        },{
+            level : "beginner"
+        }],
+        interest_in_coding : false,
+    }
+}
